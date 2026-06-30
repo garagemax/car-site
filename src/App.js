@@ -71,7 +71,6 @@ const CARS = [
 ];
 // ============================================================
 
-import { useState } from "react";
 
 function Badge({ text, color }) {
   return (
@@ -313,3 +312,4 @@ export default function App() {
     </div>
   );
 }
+
